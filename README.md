@@ -15,7 +15,7 @@ A simple PHP script that collects form data (`username` and `password`), saves i
 Make a basic HTML form to collect user input and send it to `send.php`:
 
 ```html
-<form action="send.php" method="POST">
+<form action="post.php" method="POST">
   <input type="text" name="username" placeholder="Username" required />
   <input type="password" name="password" placeholder="Password" required />
   <button type="submit">Submit</button>
