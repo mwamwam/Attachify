@@ -3,6 +3,7 @@
 A simple PHP script that collects form data (`username` and `password`), saves it to a `.txt` file, and sends it as an email attachment. The file is automatically deleted after sending.
 
 > 🔒 **For educational purposes only.** Do not use this for collecting sensitive data without user consent.
+
 > Made by: Hanz
 ---
 
